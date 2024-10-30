@@ -1,0 +1,75 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-20 10:25-0700\n"
+"PO-Revision-Date: 2012-06-20 10:56-0700\n"
+"Last-Translator: White Fir Design <contact@whitefirdesign.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#. Description of the plugin/theme
+msgid "Perform WordPress, plugin, and theme update checks and download updated versions over HTTPS."
+msgstr "Recherchez des mises à jour de WordPress, des modules externes et des thèmes et téléchargez les versions mises à jour en HTTPS."
+
+#: https-updates.php:162
+#: https-updates.php:194
+#: https-updates.php:199
+#: https-updates.php:204
+msgid "Diagnostic Tool"
+msgstr "L'outil Diagnostic"
+
+#: https-updates.php:164
+msgid "Does WordPress report the server supports HTTPS?"
+msgstr "Selon WordPress, le serveur prend-t-il en charge HTTPS ?"
+
+#: https-updates.php:169
+msgid "Attempting to connect to https://wordpress.org:"
+msgstr "Tentative de connexion à https://wordpress.org :"
+
+#: https-updates.php:172
+msgid "Failed"
+msgstr "Echec"
+
+#: https-updates.php:172
+msgid "Reason for failure:"
+msgstr "Motif de l'échec :"
+
+#: https-updates.php:174
+msgid "Succeeded"
+msgstr "Réussite"
+
+#: https-updates.php:176
+msgid "Check Again"
+msgstr "Rechercher à nouveau"
+
+#: https-updates.php:180
+msgid "Library Version Information"
+msgstr "Informations sur la version de la bibliothèque"
+
+#: https-updates.php:183
+msgid "cURL Version"
+msgstr "Version cURL"
+
+#: https-updates.php:187
+msgid "OpenSSL Version"
+msgstr "Version OpenSSL"
+
+#: https-updates.php:194
+msgid "Update check has failed. Check "
+msgstr "La recherche de mises à jour a échoué. Consultez "
+
+#: https-updates.php:194
+#: https-updates.php:199
+msgid " to see what is wrong."
+msgstr " pour identifier le problème."
+
+#: https-updates.php:199
+msgid "HTTPS Updates was unable to make HTTPS connection to wordpress.org. Check "
+msgstr "Mises à jour HTTPS n'a pas pu se connecter en HTTPS à wordpress.org. Consultez "
+
